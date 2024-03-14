@@ -1,5 +1,7 @@
 # Whack-A-Pig
 
+[Play Online](https://istiakahmedsaad.github.io/Whack-A-Pig/)
+
 Here i use simple:
 1. HTML5
 2. CSS3
